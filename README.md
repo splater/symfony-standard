@@ -54,7 +54,7 @@ Execute the `check.php` script from the command line:
 
 Access the `config.php` script from a browser:
 
-    http://localhost/path/to/symfony/app/web/config.php
+    http://localhost/path/to/symfony/web/config.php
 
 If you get any warnings or recommendations, fix them before moving on.
 
